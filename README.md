@@ -1,0 +1,3 @@
+# randomnotes
+
+self explanatory 
